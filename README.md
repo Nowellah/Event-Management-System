@@ -50,7 +50,7 @@
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/argon-dashboard-flask.git
+$ git clone https://github.com/Nowellah/Event-Management-System.git
 $ cd argon-dashboard-flask
 ```
 
